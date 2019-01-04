@@ -1,5 +1,0 @@
-[
-{"id":1,"label":"Leaving In 2 Minutes","contents":"Your school car ${CABTYPE} is waiting at ${ADDRESS} and would be leaving after 2 minutes.","minToWait":5},
-{"id":2,"label":"Please Come Out","contents":"Your school car ${CABTYPE} is waiting at ${ADDRESS} please come out as soon as you can.","minToWait":2},
-{"id":2,"label":"Waited Long Enough","contents":"Your school car ${CABTYPE} just left now after waiting for too long","minToWait":10}
-]
